@@ -8,7 +8,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>sampleweb Maven Webapp</name>
   <url>http://maven.apache.org</url>
-sample hello world
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
