@@ -10,6 +10,7 @@
   <name>sampleweb Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+    Added from Github
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
